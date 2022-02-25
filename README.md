@@ -8,7 +8,7 @@
 
 前几天又用上了OP做旁路，顺手又改了一把，然后随便找了个LOGO(netgear arlo)，起了个名字，编译了一下。
 
-## 主要特点（仅针对iOS设备，未测试安卓）：
+## 主要特点：
 * 针对移动端优化，特别适合手机端做为webapp使用；
 * 修改很多细节，尽量视觉统一（但由于luci插件开发不规范，页面结构有些杂乱，难免有些小问题无法修正）；
 * 极简易用设计，移动端去除繁杂信息，隐藏了提示信息（可能并不适合OP新手，请手机横屏查看提示文本）；
@@ -33,13 +33,12 @@
 * luci插件众多，不规范的插件可能会存在显示问题，不做保证
 
 ## 预览
-![macOS](https://github.com/thinktip/luci-theme-neobird/blob/main/preview/macOS_S1.png)
-![macOS](https://github.com/thinktip/luci-theme-neobird/blob/main/preview/macOS_S2.png)
-![macOS](https://github.com/thinktip/luci-theme-neobird/blob/main/preview/macOS_S3.png)
-![iOS](https://github.com/thinktip/luci-theme-neobird/blob/main/preview/IMG_5916.JPEG)
-![iOS](https://github.com/thinktip/luci-theme-neobird/blob/main/preview/IMG_5915.JPEG)
-![iOS](https://github.com/thinktip/luci-theme-neobird/blob/main/preview/IMG_5909.JPEG)
-![iPadOS](https://github.com/thinktip/luci-theme-neobird/blob/main/preview/IMG_0103.JPEG)
+![macOS](https://github.com/thinktip/luci-theme-neobird/blob/main/preview/SCR-20220223-iw6.png)
+![macOS](https://github.com/thinktip/luci-theme-neobird/blob/main/preview/SCR-20220223-iwp.png)
+![macOS](https://github.com/thinktip/luci-theme-neobird/blob/main/preview/SCR-20220223-j1l.png)
+![iOS](https://github.com/thinktip/luci-theme-neobird/blob/main/preview/IMG_6478.PNG)
+![iOS](https://github.com/thinktip/luci-theme-neobird/blob/main/preview/IMG_6481.PNG)
+![iOS](https://github.com/thinktip/luci-theme-neobird/blob/main/preview/IMG_6474.PNG)
 ## 自行编译：
 
 ```
